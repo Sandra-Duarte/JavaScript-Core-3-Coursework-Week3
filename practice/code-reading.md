@@ -15,6 +15,8 @@ Take a look at the following code:
 ```
 
 Explain why line 4 and line 6 output different numbers.
+In the line 4 will output local scope.
+And the line 6 will output the global scope.
 
 ## Question 2
 
@@ -34,6 +36,7 @@ console.log(y)
 ```
 
 What will be the output of this code. Explain your answer in 50 words or less.
+the first console will output the global varieble  let x = 10 and the secund console log it's indefined becouse the y it's not defined.
 
 ## Question 3
 
